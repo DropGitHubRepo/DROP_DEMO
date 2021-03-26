@@ -1,1 +1,1 @@
-# DROP_DEMO test ehelo
+# DROP_DEMO
